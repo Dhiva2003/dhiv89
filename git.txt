@@ -1,0 +1,15 @@
+git config --global user.name or email"git hub username or email"
+git clone"origin"
+cd folder name
+git status
+modifications
+git add filename
+git add .    
+git commit -m "message"
+git push origin main
+git pull
+git init
+git remote add origin https://github.com/Dhiva2003/d2.git
+git branch -a
+git branch -m "name to be changed"
+
