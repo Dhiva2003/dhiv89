@@ -12,4 +12,5 @@ git init
 git remote add origin https://github.com/Dhiva2003/d2.git
 git branch -a
 git branch -m "name to be changed"
+git checkout branch name to be switched
 
